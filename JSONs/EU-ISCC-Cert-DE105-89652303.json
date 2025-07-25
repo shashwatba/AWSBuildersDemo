@@ -1,0 +1,27 @@
+{
+ "text": "ExxonMobil Hong Kong Limited is an ISCC EU certified trader operating from Hong Kong that handles final products in the sustainable fuels supply chain. The company was first ISCC certified in 2023 and underwent an audit on May 22, 2025. As a trader, ExxonMobil Hong Kong deals with sustainable materials including biodiesel from Hong Kong, HVO (Hydrotreated Vegetable Oil) from Australia and China. The company operates using a mass balance chain of custody system and applies total default values and actual values for GHG calculations. The audit found no non-conformities and all mandatory corrective measures were marked as corrected, indicating successful compliance with ISCC sustainability certification requirements.",
+ "source": "https://hub.iscc-system.org//FileHandler/download/summaryAuditReportFile/MTAzMzA2X0VVLUlTQ0MtQ2VydC1ERTEwNS04OTY1MjMwMw==",
+ "company_name": "ExxonMobil Hong Kong Limited",
+ "address": "Central Plaza, 18 Harbour Road 2301-2302 and 2306-2308 - N/A Wanchai, Hong Kong",
+ "date_of_audit": "22.05.2025",
+ "certification_systems_audited": {
+   "iscc_eu": true,
+   "iscc_plus": false,
+   "year_of_first_iscc_certification": "2023"
+ },
+ "raw_materials": [
+   {
+     "material": "Biodiesel",
+     "country_of_origin": "Hong Kong"
+   },
+   {
+     "material": "HVO (Hydrotreated Vegetable Oil)",
+     "country_of_origin": "Australia"
+   },
+   {
+     "material": "HVO (Hydrotreated Vegetable Oil)",
+     "country_of_origin": "China"
+   }
+ ],
+ "type_of_sustainable_material": "Final products"
+}

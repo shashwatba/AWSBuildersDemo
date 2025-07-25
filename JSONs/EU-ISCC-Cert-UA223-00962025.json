@@ -1,0 +1,31 @@
+{
+ "text": "This is an ISCC audit report for COMPANY OKKO-BUSINESS, a Ukrainian trader with storage operations located in Lviv. The company was audited on May 26, 2025, for ISCC EU certification, having first received ISCC certification in 2023. They operate as a first gathering point and trader with storage, handling agricultural biomass including corn/maize, rapeseed/canola, soybean, and sunflower sourced from Ukraine. The audit found one major non-conformity in the Chain of Custody chapter which has been corrected, and the company uses mass balance chain of custody methodology for their sustainable material operations.",
+ "source": "https://hub.iscc-system.org//FileHandler/download/summaryAuditReportFile/MTAzMzU1X0VVLUlTQ0MtQ2VydC1VQTIyMy0wMDk2MjAyNQ==",
+ "company_name": "COMPANY OKKO-BUSINESS",
+ "address": "Heroiv UPA 72 - 79018 Lviv, Ukraine",
+ "date_of_audit": "26.05.2025",
+ "certification_systems_audited": {
+   "iscc_eu": true,
+   "iscc_plus": false,
+   "year_of_first_iscc_certification": "2023"
+ },
+ "raw_materials": [
+   {
+     "material": "Corn / Maize",
+     "country_of_origin": "Ukraine"
+   },
+   {
+     "material": "Rapeseed / canola",
+     "country_of_origin": "Ukraine"
+   },
+   {
+     "material": "Soybean",
+     "country_of_origin": "Ukraine"
+   },
+   {
+     "material": "Sunflower",
+     "country_of_origin": "Ukraine"
+   }
+ ],
+ "type_of_sustainable_material": "Agricultural biomass"
+}
