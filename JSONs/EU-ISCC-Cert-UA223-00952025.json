@@ -1,0 +1,39 @@
+{
+   "text": "Biodiesel Trading Cyprus Ltd is a Cyprus-based trader that underwent an ISCC EU audit in July 2025. The company operates as a trading entity dealing with various sustainable materials including used cooking oil from Kyrgyzstan, and fatty acids, biodiesel, crude oil, refined oil, and animal fats from Azerbaijan. They first received ISCC certification in 2024 and use mass balance chain of custody. The audit was conducted with reasonable assurance level and high risk assessment due to the company's handling of used cooking oil and crude oil materials. The company trades raw materials, intermediate products, and final products in the sustainable fuels supply chain.",
+   "source": "https://hub.iscc-system.org//FileHandler/download/summaryAuditReportFile/MTAzMTM5X0VVLUlTQ0MtQ2VydC1VQTIyMy0wMDk1MjAyNQ==",
+   "company_name": "Biodiesel Trading Cyprus Ltd",
+   "address": "Thessalonikis Nikolaou Pentadromos Center, 10th floor, office 1002 - 3025 Limassol, Cyprus",
+   "date_of_audit": "08.07.2025",
+   "certification_systems_audited": {
+       "iscc_eu": true,
+       "iscc_plus": false,
+       "year_of_first_iscc_certification": "2024"
+   },
+   "raw_materials": [
+       {
+           "material": "Used cooking oil (UCO)",
+           "country_of_origin": "Kyrgyzstan"
+       },
+       {
+           "material": "Fatty acids",
+           "country_of_origin": "Azerbaijan"
+       },
+       {
+           "material": "Biodiesel",
+           "country_of_origin": "Azerbaijan"
+       },
+       {
+           "material": "Crude oil",
+           "country_of_origin": "Azerbaijan"
+       },
+       {
+           "material": "Refined oil",
+           "country_of_origin": "Azerbaijan"
+       },
+       {
+           "material": "Animal fats",
+           "country_of_origin": "Azerbaijan"
+       }
+   ],
+   "type_of_sustainable_material": "Waste and residues, biofuels and intermediate products"
+}
