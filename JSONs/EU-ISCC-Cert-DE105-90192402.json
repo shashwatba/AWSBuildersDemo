@@ -1,0 +1,19 @@
+{
+ "text": "This is an ISCC audit report for Bunge Lipid Enzymtec Sdn Bhd, a Point of Origin facility located in Pasir Gudang, Johor, Malaysia. The company was audited on June 19, 2025, for ISCC EU certification and received their first ISCC certification in 2024. They handle spent bleaching earth as their sustainable input material, which is classified as waste material from refinery processes that handle both virgin and waste materials. The facility operates under a Mass Balance chain of custody system and was assessed at a high risk level due to being a Point of Origin from refinery processes. The audit was conducted by Control Union Certifications Germany GmbH and resulted in one minor non-conformity in the Management System chapter, which has been corrected. The company also holds RSPO and MSPO certifications.",
+ "source": "https://hub.iscc-system.org//FileHandler/download/summaryAuditReportFile/MTAzMTgyX0VVLUlTQ0MtQ2VydC1ERTEwNS05MDE5MjQwMg==",
+ "company_name": "Bunge Lipid Enzymtec Sdn Bhd",
+ "address": "PLO 8 & 9 Jalan Timah - 81700 Pasir Gudang, Johor, Malaysia",
+ "date_of_audit": "19.06.2025",
+ "certification_systems_audited": {
+   "iscc_eu": true,
+   "iscc_plus": false,
+   "year_of_first_iscc_certification": "2024"
+ },
+ "raw_materials": [
+   {
+     "material": "Spent bleaching earth",
+     "country_of_origin": ""
+   }
+ ],
+ "type_of_sustainable_material": "waste material"
+}

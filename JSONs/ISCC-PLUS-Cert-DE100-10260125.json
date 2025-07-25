@@ -1,0 +1,19 @@
+{
+ "text": "LACTALIS NESTLE ULTRA-FRAIS MARQUES is a French food packaging company located in Vallet, France that underwent an ISCC audit in June 2025. The company operates as a converter/processing unit in the final product refinement stage, producing bio-based and circular packaging materials including polystyrene (PS) and polypropylene (PP) packaging. They are certified under ISCC PLUS using mass balance chain of custody and have been ISCC certified since 2021. The company sources sustainable materials from France and produces various types of packaging including bio, bio-circular, and circular variants. The audit found 2 minor non-conformities in the Management System and 1 in Chain of Custody, all of which were corrected before certificate issuance.",
+ "source": "https://hub.iscc-system.org//FileHandler/download/summaryAuditReportFile/OTg4NzZfSVNDQy1QTFVTLUNlcnQtREUxMDAtMTAyNjAxMjU=",
+ "company_name": "LACTALIS NESTLE ULTRA-FRAIS MARQUES",
+ "address": "Boulevard Louis Beaquin 3 - 44330 VALLET, France",
+ "date_of_audit": "24.06.2025",
+ "certification_systems_audited": {
+   "iscc_eu": false,
+   "iscc_plus": true,
+   "year_of_first_iscc_certification": "2021"
+ },
+ "raw_materials": [
+   {
+     "material": "PS (Polystyrene)",
+     "country_of_origin": "France"
+   }
+ ],
+ "type_of_sustainable_material": "Bio-based and circular packaging materials"
+}
